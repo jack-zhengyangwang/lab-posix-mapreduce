@@ -1,5 +1,4 @@
 # Lab: POSIX MapReduce
-
 <!--
 REMINDER TO MYSELF:
 The `notes` branch contains some partially completed lab material.
@@ -488,6 +487,8 @@ The final output is re-sorted and stored in the file `reduce`.
 > Then create a plot of the results in the file `country_code_mapreduce.png`.
 > Upload your plot to github and ensure that it appears below.
 
+
+For this exercise I only showed the output of top 10 country codes for readability
 <img src=country_code_mapreduce.png />
 
 ## Part 6: MapReduce Challenge
